@@ -17,7 +17,7 @@ _Junos PyEZ_ wiki page, [here](https://techwiki.juniper.net/Projects/Junos_PyEZ)
 
 # ABOUT
 
-_Junos PyEZ_ is a Python library to remotely manage/automate Junos devices.  The user is ***NOT*** required: (a) to be a "Software Programmer™", (b) have sophisticated knowledge of Junos, or (b) have a complex understanding of the Junos XML API.  
+_Junos PyEZ_ is a Python library to remotely manage/automate Junos devices.  The user is ***NOT*** required: (a) to be a "Software Programmer™", (b) have sophisticated knowledge of Junos, or (c) have a complex understanding of the Junos XML API.  
 
 This library was built for two types of users:
 
